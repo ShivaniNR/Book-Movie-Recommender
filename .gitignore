@@ -1,4 +1,2 @@
 __pycache__
-data/book_vector_store
-data/movie_vector_store
 book-movie-recommender-rag
